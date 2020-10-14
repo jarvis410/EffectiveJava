@@ -1,5 +1,7 @@
 package chapter8;
 
+import java.util.Date;
+
 /**
  * check parameters for validity
  */
